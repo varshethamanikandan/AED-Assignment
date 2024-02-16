@@ -19,7 +19,7 @@ public class Chap6 {
         String classification;
         if (wordLength <= 5) {
             classification = "short";
-        } else if (wordLength <= 10) {
+        } else if (wordLength <= 11) {
             classification = "medium";
         } else {
             classification = "long";
